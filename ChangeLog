@@ -1,0 +1,4 @@
+2015-11-09 Matt:
+	* Adding first pass code where trained KNN. Will commit plotting script later
+	* Adding master script for toggling between different options.
+	* Adding result which will evaluate right now only using knn
